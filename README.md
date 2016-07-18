@@ -1,9 +1,12 @@
-# shopo
-Puzzle Solving
+# Shopo Problem Solving 
 
-Pull this repository.
+Steps to execute the following ruby code
 
-Go into the root folder of this repository from command line.
+1) Pull this repository.
 
-Execute "ruby main.rb" to the run the program.
+2) Go into the root folder of this repository from command line.
+
+3) Execute "ruby main.rb" to the run the program.
+
+Note: Please add new fruit items to the CSV attached to this repository.
 
