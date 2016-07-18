@@ -22,9 +22,7 @@ class Cart
 
   def print_contents
     result = String.new
-
     items.each_pair {|key, value|  result << "#{value}kg #{key.capitalize}, "}
-
     result
   end
 end
