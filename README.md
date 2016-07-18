@@ -10,3 +10,5 @@ Steps to execute the following ruby code
 
 Note: Please add new fruit items to the CSV attached to this repository.
 
+Work in Progress : Writing Rspecs for the code.
+
