@@ -1,0 +1,5 @@
+name,available_kgs,perkg_price,discount_weekdays
+apples,4,10.00,"WED,SAT"
+oranges,7,6.00,"MON,FRI"
+mangoes,20,16.00,"THU"
+pineapples,3,24.00,"SUN"
